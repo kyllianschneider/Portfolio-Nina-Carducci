@@ -280,6 +280,16 @@ input[type="submit"] {
     }
     .service__description {
         margin-bottom: 1em;
+        font-size: 18px;
+    }
+    .service__titles{
+        font-size: 26px;
+        margin-bottom: 35px;
+        font-weight: bold;
+    }
+    .pricetag{
+        font-size: 26px;
+        font-weight: bold;
     }
     #services .container::before {
         width: 30%;
